@@ -1,0 +1,11 @@
+E:\VB2017\Chap04\ABC Solution\ABC Project\bin\Debug\ABC Project.exe.config
+E:\VB2017\Chap04\ABC Solution\ABC Project\bin\Debug\ABC Project.exe
+E:\VB2017\Chap04\ABC Solution\ABC Project\bin\Debug\ABC Project.pdb
+E:\VB2017\Chap04\ABC Solution\ABC Project\bin\Debug\ABC Project.xml
+E:\VB2017\Chap04\ABC Solution\ABC Project\obj\Debug\ABC Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\ABC Solution\ABC Project\obj\Debug\ABC_Project.frmMain.resources
+E:\VB2017\Chap04\ABC Solution\ABC Project\obj\Debug\ABC_Project.Resources.resources
+E:\VB2017\Chap04\ABC Solution\ABC Project\obj\Debug\ABC Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\ABC Solution\ABC Project\obj\Debug\ABC Project.exe
+E:\VB2017\Chap04\ABC Solution\ABC Project\obj\Debug\ABC Project.xml
+E:\VB2017\Chap04\ABC Solution\ABC Project\obj\Debug\ABC Project.pdb

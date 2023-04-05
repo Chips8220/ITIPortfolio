@@ -1,0 +1,11 @@
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\bin\Debug\netcoreapp3.0\Page_195-Page196.exe
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\bin\Debug\netcoreapp3.0\Page_195-Page196.deps.json
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\bin\Debug\netcoreapp3.0\Page_195-Page196.runtimeconfig.json
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\bin\Debug\netcoreapp3.0\Page_195-Page196.runtimeconfig.dev.json
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\bin\Debug\netcoreapp3.0\Page_195-Page196.dll
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\bin\Debug\netcoreapp3.0\Page_195-Page196.pdb
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\obj\Debug\netcoreapp3.0\Page_195-Page196.csprojAssemblyReference.cache
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\obj\Debug\netcoreapp3.0\Page_195-Page196.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\obj\Debug\netcoreapp3.0\Page_195-Page196.AssemblyInfo.cs
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\obj\Debug\netcoreapp3.0\Page_195-Page196.dll
+C:\Users\jmullins025080\Desktop\Page_195-Page196\Page_195-Page196\obj\Debug\netcoreapp3.0\Page_195-Page196.pdb

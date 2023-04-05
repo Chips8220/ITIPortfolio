@@ -1,0 +1,10 @@
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\bin\Debug\MidtermLab.exe.config
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\bin\Debug\MidtermLab.exe
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\bin\Debug\MidtermLab.pdb
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\obj\Debug\MidtermLab.csproj.AssemblyReference.cache
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\obj\Debug\MidtermLab.frmStudents.resources
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\obj\Debug\MidtermLab.Properties.Resources.resources
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\obj\Debug\MidtermLab.csproj.GenerateResource.cache
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\obj\Debug\MidtermLab.csproj.CoreCompileInputs.cache
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\obj\Debug\MidtermLab.exe
+H:\Term6\Database Development\InClass\MIdterm\MidtermLab\MidtermLab\obj\Debug\MidtermLab.pdb

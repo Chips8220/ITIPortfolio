@@ -1,0 +1,22 @@
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe.config
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.pdb
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.frmMain.resources
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.Resources.resources
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.pdb
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe.config
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.pdb
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.frmMain.resources
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.Resources.resources
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.pdb

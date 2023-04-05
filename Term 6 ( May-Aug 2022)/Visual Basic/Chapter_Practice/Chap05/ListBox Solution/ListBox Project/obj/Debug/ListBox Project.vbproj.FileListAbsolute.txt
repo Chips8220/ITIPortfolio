@@ -1,0 +1,23 @@
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.exe.config
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.exe
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.pdb
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.xml
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox_Project.frmMain.resources
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox_Project.Resources.resources
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.exe
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.xml
+E:\VB2017\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.pdb
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.exe.config
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.pdb
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\bin\Debug\ListBox Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox_Project.frmMain.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox_Project.Resources.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\ListBox Solution\ListBox Project\obj\Debug\ListBox Project.pdb

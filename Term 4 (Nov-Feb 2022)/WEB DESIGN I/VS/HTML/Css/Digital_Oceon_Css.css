@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Dogtown';
+    src: url('../Font/Dogtown\ Typewriter.ttf');
+}
+
+#dog {
+    font-family: 'Dogtown';
+    text-align: center;
+    font-size: 250pt;
+}
+
+table {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Dogtown';
+}
+
+th {
+    font-family: 'Dogtown';
+    text-align: center;
+    font-size: 50pt;
+    border: black 1px solid;
+}
+
+td {
+    border: rgb(255, 243, 243) 1px solid;
+    font-size: 25pt;
+    font-family: 'Dogtown';
+}
+
+html {
+    background-color: rgb(82, 79, 79);
+}
+
+.multicolortext {
+    background-image: linear-gradient(to left, pink, rgb(255, 0, 43), rgb(144, 245, 114), rgb(247, 171, 72), rgb(0, 17, 255), magenta);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Dogtown';
+}

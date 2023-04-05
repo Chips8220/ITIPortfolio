@@ -1,0 +1,10 @@
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\bin\Debug\Chapter10.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\bin\Debug\Chapter10.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\obj\Debug\Chapter10.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\obj\Debug\Chapter10.frmKWSales.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\obj\Debug\Chapter10.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\obj\Debug\Chapter10.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\obj\Debug\Chapter10.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter10\Chapter10\Chapter10\obj\Debug\Chapter10.pdb

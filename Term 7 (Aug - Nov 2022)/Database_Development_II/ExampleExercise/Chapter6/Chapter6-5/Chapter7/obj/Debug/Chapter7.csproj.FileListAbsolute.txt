@@ -1,0 +1,10 @@
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\obj\Debug\Chapter7.frmPhoneDB.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\obj\Debug\Chapter7.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\bin\Debug\Chapter7.exe.config
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\bin\Debug\Chapter7.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\bin\Debug\Chapter7.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\obj\Debug\Chapter7.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter7\Chapter7\obj\Debug\Chapter7.pdb

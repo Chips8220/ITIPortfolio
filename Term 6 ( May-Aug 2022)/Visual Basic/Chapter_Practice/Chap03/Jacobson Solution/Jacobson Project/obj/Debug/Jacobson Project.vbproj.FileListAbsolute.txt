@@ -1,0 +1,22 @@
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.exe.config
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.exe
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.pdb
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.xml
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson_Project.frmMain.resources
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson_Project.Resources.resources
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.exe
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.xml
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.pdb
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\bin\Debug\Jacobson Project.exe.config
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\bin\Debug\Jacobson Project.exe
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\bin\Debug\Jacobson Project.pdb
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\bin\Debug\Jacobson Project.xml
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\obj\Debug\Jacobson Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\obj\Debug\Jacobson_Project.frmMain.resources
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\obj\Debug\Jacobson_Project.Resources.resources
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\obj\Debug\Jacobson Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\obj\Debug\Jacobson Project.exe
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\obj\Debug\Jacobson Project.xml
+E:\VB2017\Chap02\Jacobson Solution - Data - Copy\Jacobson Project\obj\Debug\Jacobson Project.pdb

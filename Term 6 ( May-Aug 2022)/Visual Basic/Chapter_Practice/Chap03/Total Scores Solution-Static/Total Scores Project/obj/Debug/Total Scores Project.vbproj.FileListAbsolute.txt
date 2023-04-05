@@ -1,0 +1,23 @@
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.exe.config
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.exe
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.pdb
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.xml
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total_Scores_Project.frmMain.resources
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total_Scores_Project.Resources.resources
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.exe
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.xml
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.pdb
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.exe.config
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.exe
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.pdb
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.xml
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total_Scores_Project.frmMain.resources
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total_Scores_Project.Resources.resources
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.exe
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.xml
+H:\Term6\Visual Basic\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.pdb

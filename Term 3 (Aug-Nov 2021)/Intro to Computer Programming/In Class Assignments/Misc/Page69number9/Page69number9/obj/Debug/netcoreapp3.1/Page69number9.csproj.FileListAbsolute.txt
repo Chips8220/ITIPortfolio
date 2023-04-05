@@ -1,0 +1,13 @@
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\bin\Debug\netcoreapp3.1\Page69number9.exe
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\bin\Debug\netcoreapp3.1\Page69number9.deps.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\bin\Debug\netcoreapp3.1\Page69number9.runtimeconfig.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\bin\Debug\netcoreapp3.1\Page69number9.runtimeconfig.dev.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\bin\Debug\netcoreapp3.1\Page69number9.dll
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\bin\Debug\netcoreapp3.1\Page69number9.pdb
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\obj\Debug\netcoreapp3.1\Page69number9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\obj\Debug\netcoreapp3.1\Page69number9.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\obj\Debug\netcoreapp3.1\Page69number9.AssemblyInfo.cs
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\obj\Debug\netcoreapp3.1\Page69number9.csproj.CoreCompileInputs.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\obj\Debug\netcoreapp3.1\Page69number9.dll
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\obj\Debug\netcoreapp3.1\Page69number9.pdb
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page69number9\Page69number9\obj\Debug\netcoreapp3.1\Page69number9.genruntimeconfig.cache

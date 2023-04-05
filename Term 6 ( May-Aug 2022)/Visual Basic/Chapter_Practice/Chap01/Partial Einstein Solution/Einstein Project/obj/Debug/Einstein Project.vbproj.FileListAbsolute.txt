@@ -1,0 +1,10 @@
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe.config
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.pdb
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.xml
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.frmMain.resources
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.Resources.resources
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.exe
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.xml
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.pdb

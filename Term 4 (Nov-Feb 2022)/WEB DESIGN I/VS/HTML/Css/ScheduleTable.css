@@ -1,0 +1,55 @@
+th {
+    color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25pt;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-decoration: greenyellow;
+    text-align: center;
+    text-shadow: black 3px 5px;
+}
+
+td {
+    color: rgb(168, 243, 106);
+    font-family: 'Blackadder ITC';
+    font-size: 21pt;
+    text-align: center;
+    border: black 5px solid;
+    margin: 0px;
+    padding: 10px;
+}
+
+tr {
+    margin: 1px;
+}
+
+tr.even {
+    background-color: rgb(66, 64, 64);
+}
+
+tr:hover {
+    background-color: rgb(255, 251, 0);
+}
+
+a {
+    color: red;
+    background-color: black;
+}
+
+a:hover {
+    color: yellowgreen;
+    background-color: rgb(228, 172, 228);
+}
+
+a:visited {
+    color: rgb(0, 255, 128);
+}
+
+div:hover {
+    background-color: rgb(248, 173, 76);
+    color: rgb(2, 155, 15);
+}
+
+html {
+    background-color: rgb(47, 53, 59);
+}

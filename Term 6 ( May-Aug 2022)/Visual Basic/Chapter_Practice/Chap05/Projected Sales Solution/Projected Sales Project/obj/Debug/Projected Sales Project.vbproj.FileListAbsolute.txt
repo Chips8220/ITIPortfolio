@@ -1,0 +1,23 @@
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.exe.config
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.exe
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.pdb
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.xml
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected_Sales_Project.frmMain.resources
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected_Sales_Project.Resources.resources
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.exe
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.xml
+E:\VB2017\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.pdb
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.exe.config
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.pdb
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\bin\Debug\Projected Sales Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected_Sales_Project.frmMain.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected_Sales_Project.Resources.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Projected Sales Solution\Projected Sales Project\obj\Debug\Projected Sales Project.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise10-3", "Excercise10-3\Excercise10-3.csproj", "{A713713E-B85C-4B87-B110-81DCB280F8B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupWizard", "SetupWizard\SetupWizard.vdproj", "{A6074327-897D-408E-80F3-082F6B3038D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A713713E-B85C-4B87-B110-81DCB280F8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A713713E-B85C-4B87-B110-81DCB280F8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A713713E-B85C-4B87-B110-81DCB280F8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A713713E-B85C-4B87-B110-81DCB280F8B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6074327-897D-408E-80F3-082F6B3038D0}.Debug|Any CPU.ActiveCfg = Debug
+		{A6074327-897D-408E-80F3-082F6B3038D0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9E19DA-7B7B-4FA8-A1A0-ECB13927D4D8}
+	EndGlobalSection
+EndGlobal

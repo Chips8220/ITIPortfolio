@@ -1,0 +1,12 @@
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.exe.config
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.pdb
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For_Next_Project.frmMain.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For_Next_Project.Resources.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.pdb

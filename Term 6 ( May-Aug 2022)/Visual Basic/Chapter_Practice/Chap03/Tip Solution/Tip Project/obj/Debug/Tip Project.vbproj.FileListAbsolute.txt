@@ -1,0 +1,22 @@
+E:\VB2017\Chap02\Tip Solution\Tip Project\obj\Debug\Tip Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap02\Tip Solution\Tip Project\obj\Debug\Tip_Project.frmMain.resources
+E:\VB2017\Chap02\Tip Solution\Tip Project\obj\Debug\Tip_Project.Resources.resources
+E:\VB2017\Chap02\Tip Solution\Tip Project\obj\Debug\Tip Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap02\Tip Solution\Tip Project\bin\Debug\Tip.exe.config
+E:\VB2017\Chap02\Tip Solution\Tip Project\bin\Debug\Tip.exe
+E:\VB2017\Chap02\Tip Solution\Tip Project\bin\Debug\Tip.pdb
+E:\VB2017\Chap02\Tip Solution\Tip Project\bin\Debug\Tip.xml
+E:\VB2017\Chap02\Tip Solution\Tip Project\obj\Debug\Tip.exe
+E:\VB2017\Chap02\Tip Solution\Tip Project\obj\Debug\Tip.xml
+E:\VB2017\Chap02\Tip Solution\Tip Project\obj\Debug\Tip.pdb
+E:\VB2017\Chap03\Tip Solution\Tip Project\bin\Debug\Tip.exe.config
+E:\VB2017\Chap03\Tip Solution\Tip Project\bin\Debug\Tip.exe
+E:\VB2017\Chap03\Tip Solution\Tip Project\bin\Debug\Tip.pdb
+E:\VB2017\Chap03\Tip Solution\Tip Project\bin\Debug\Tip.xml
+E:\VB2017\Chap03\Tip Solution\Tip Project\obj\Debug\Tip Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Tip Solution\Tip Project\obj\Debug\Tip_Project.frmMain.resources
+E:\VB2017\Chap03\Tip Solution\Tip Project\obj\Debug\Tip_Project.Resources.resources
+E:\VB2017\Chap03\Tip Solution\Tip Project\obj\Debug\Tip Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Tip Solution\Tip Project\obj\Debug\Tip.exe
+E:\VB2017\Chap03\Tip Solution\Tip Project\obj\Debug\Tip.xml
+E:\VB2017\Chap03\Tip Solution\Tip Project\obj\Debug\Tip.pdb

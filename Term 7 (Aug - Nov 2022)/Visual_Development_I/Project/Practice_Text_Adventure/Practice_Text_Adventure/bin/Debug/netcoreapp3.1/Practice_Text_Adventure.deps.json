@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practice_Text_Adventure/1.0.0": {
+        "runtime": {
+          "Practice_Text_Adventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice_Text_Adventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

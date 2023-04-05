@@ -1,0 +1,12 @@
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\bin\Debug\Mills_Project.exe.config
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\bin\Debug\Mills_Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\bin\Debug\Mills_Project.pdb
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\bin\Debug\Mills_Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.Main_form.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.Resources.resources
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.exe
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.xml
+H:\Term6\Visual Basic\Chapter_Practice\Chap05\Mills_Solution\Mills_Project\obj\Debug\Mills_Project.pdb

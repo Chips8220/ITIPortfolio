@@ -1,0 +1,14 @@
+H:\In Class Assignments\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.exe
+H:\In Class Assignments\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.deps.json
+H:\In Class Assignments\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.runtimeconfig.json
+H:\In Class Assignments\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.runtimeconfig.dev.json
+H:\In Class Assignments\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.dll
+H:\In Class Assignments\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.pdb
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.csproj.AssemblyReference.cache
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.AssemblyInfoInputs.cache
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.AssemblyInfo.cs
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.csproj.CoreCompileInputs.cache
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.dll
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.pdb
+H:\In Class Assignments\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.genruntimeconfig.cache

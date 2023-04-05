@@ -1,0 +1,44 @@
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe.config
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\bin\Debug\GameDatabase.pdb
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.AssemblyReference.cache
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.frmGameDB.resources
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.Properties.Resources.resources
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.GenerateResource.cache
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.CoreCompileInputs.cache
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.exe
+H:\Term6\Database Development\InClass\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.pdb
+C:\Project\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe.config
+C:\Project\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe
+C:\Project\GameDatabase\GameDatabase\bin\Debug\GameDatabase.pdb
+C:\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.AssemblyReference.cache
+C:\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.frmGameDB.resources
+C:\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.Properties.Resources.resources
+C:\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.GenerateResource.cache
+C:\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.CoreCompileInputs.cache
+C:\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.exe
+C:\Project\GameDatabase\GameDatabase\obj\Debug\GameDatabase.pdb
+C:\Final_ProjectJM\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe.config
+C:\Final_ProjectJM\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe
+C:\Final_ProjectJM\GameDatabase\GameDatabase\bin\Debug\GameDatabase.pdb
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.AssemblyReference.cache
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.frmGameDB.resources
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.Properties.Resources.resources
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.GenerateResource.cache
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.CoreCompileInputs.cache
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.exe
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.pdb
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.AddNewPlayer.resources
+C:\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.Query.resources
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe.config
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\bin\Debug\GameDatabase.exe
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\bin\Debug\GameDatabase.pdb
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.AssemblyReference.cache
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.AddNewPlayer.resources
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.Query.resources
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.frmGameDB.resources
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.Properties.Resources.resources
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.GenerateResource.cache
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.csproj.CoreCompileInputs.cache
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.exe
+H:\Term6\Database Development\Final_ProjectJM\GameDatabase\GameDatabase\obj\Debug\GameDatabase.pdb

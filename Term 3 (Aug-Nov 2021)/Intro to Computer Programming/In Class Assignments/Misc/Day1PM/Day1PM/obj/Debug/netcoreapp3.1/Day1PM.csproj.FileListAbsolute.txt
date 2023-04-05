@@ -1,0 +1,14 @@
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\bin\Debug\netcoreapp3.1\Day1PM.exe
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\bin\Debug\netcoreapp3.1\Day1PM.deps.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\bin\Debug\netcoreapp3.1\Day1PM.runtimeconfig.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\bin\Debug\netcoreapp3.1\Day1PM.runtimeconfig.dev.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\bin\Debug\netcoreapp3.1\Day1PM.dll
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\bin\Debug\netcoreapp3.1\Day1PM.pdb
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.csproj.AssemblyReference.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.AssemblyInfo.cs
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.csproj.CoreCompileInputs.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.dll
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.pdb
+C:\Users\jmullins025080\Desktop\In Class Assignments\Day1PM\Day1PM\obj\Debug\netcoreapp3.1\Day1PM.genruntimeconfig.cache

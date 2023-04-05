@@ -1,0 +1,14 @@
+H:\In Class Assignments\FinalPractice\FinalPractice\bin\Debug\netcoreapp3.0\FinalPractice.exe
+H:\In Class Assignments\FinalPractice\FinalPractice\bin\Debug\netcoreapp3.0\FinalPractice.deps.json
+H:\In Class Assignments\FinalPractice\FinalPractice\bin\Debug\netcoreapp3.0\FinalPractice.runtimeconfig.json
+H:\In Class Assignments\FinalPractice\FinalPractice\bin\Debug\netcoreapp3.0\FinalPractice.runtimeconfig.dev.json
+H:\In Class Assignments\FinalPractice\FinalPractice\bin\Debug\netcoreapp3.0\FinalPractice.dll
+H:\In Class Assignments\FinalPractice\FinalPractice\bin\Debug\netcoreapp3.0\FinalPractice.pdb
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.AssemblyInfoInputs.cache
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.AssemblyInfo.cs
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.dll
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.pdb
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.csproj.AssemblyReference.cache
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.GeneratedMSBuildEditorConfig.editorconfig
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.csproj.CoreCompileInputs.cache
+H:\In Class Assignments\FinalPractice\FinalPractice\obj\Debug\netcoreapp3.0\FinalPractice.genruntimeconfig.cache

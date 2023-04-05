@@ -1,0 +1,11 @@
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\bin\Debug\Infinite Pretest Loop Project.exe.config
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\bin\Debug\Infinite Pretest Loop Project.exe
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\bin\Debug\Infinite Pretest Loop Project.pdb
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\bin\Debug\Infinite Pretest Loop Project.xml
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\obj\Debug\Infinite Pretest Loop Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\obj\Debug\Infinite_Pretest_Loop_Project.frmMain.resources
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\obj\Debug\Infinite_Pretest_Loop_Project.Resources.resources
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\obj\Debug\Infinite Pretest Loop Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\obj\Debug\Infinite Pretest Loop Project.exe
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\obj\Debug\Infinite Pretest Loop Project.xml
+E:\VB2017\Chap05\Infinite Pretest Loop Solution\Infinite Pretest Loop Project\obj\Debug\Infinite Pretest Loop Project.pdb

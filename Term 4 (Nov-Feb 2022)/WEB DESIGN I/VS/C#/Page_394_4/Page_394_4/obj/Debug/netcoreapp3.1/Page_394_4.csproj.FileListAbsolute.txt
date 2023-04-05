@@ -1,0 +1,14 @@
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\bin\Debug\netcoreapp3.1\Page_394_4.exe
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\bin\Debug\netcoreapp3.1\Page_394_4.deps.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\bin\Debug\netcoreapp3.1\Page_394_4.runtimeconfig.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\bin\Debug\netcoreapp3.1\Page_394_4.runtimeconfig.dev.json
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\bin\Debug\netcoreapp3.1\Page_394_4.dll
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\bin\Debug\netcoreapp3.1\Page_394_4.pdb
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.csproj.AssemblyReference.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.AssemblyInfo.cs
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.csproj.CoreCompileInputs.cache
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.dll
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.pdb
+C:\Users\jmullins025080\Desktop\In Class Assignments\Page_394_4\Page_394_4\obj\Debug\netcoreapp3.1\Page_394_4.genruntimeconfig.cache

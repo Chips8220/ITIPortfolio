@@ -1,0 +1,14 @@
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\bin\Debug\netcoreapp3.1\IF_Problems.exe
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\bin\Debug\netcoreapp3.1\IF_Problems.deps.json
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\bin\Debug\netcoreapp3.1\IF_Problems.runtimeconfig.json
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\bin\Debug\netcoreapp3.1\IF_Problems.runtimeconfig.dev.json
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\bin\Debug\netcoreapp3.1\IF_Problems.dll
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\bin\Debug\netcoreapp3.1\IF_Problems.pdb
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.csproj.AssemblyReference.cache
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.AssemblyInfo.cs
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.csproj.CoreCompileInputs.cache
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.dll
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.pdb
+C:\Users\jmullins025080\Desktop\IF_Problems\IF_Problems\obj\Debug\netcoreapp3.1\IF_Problems.genruntimeconfig.cache

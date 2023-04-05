@@ -1,0 +1,10 @@
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\bin\Debug\Wedding Project.exe.config
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\bin\Debug\Wedding Project.exe
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\bin\Debug\Wedding Project.pdb
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\bin\Debug\Wedding Project.xml
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\obj\Debug\Wedding_Project.frmMain.resources
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\obj\Debug\Wedding_Project.Resources.resources
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\obj\Debug\Wedding Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\obj\Debug\Wedding Project.exe
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\obj\Debug\Wedding Project.xml
+E:\VB2017\Chap04\Wedding Solution\Wedding Project\obj\Debug\Wedding Project.pdb

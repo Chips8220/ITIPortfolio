@@ -1,0 +1,34 @@
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.exe.config
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.exe
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.pdb
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.xml
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle_Project.frmMain.resources
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle_Project.Resources.resources
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.exe
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.xml
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.pdb
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.exe.config
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.exe
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.pdb
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.xml
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle_Project.frmMain.resources
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle_Project.Resources.resources
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.exe
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.xml
+E:\VB2017\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.pdb
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.exe.config
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.exe
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.pdb
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\bin\Debug\Circle Project.xml
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle_Project.frmMain.resources
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle_Project.Resources.resources
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.exe
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.xml
+H:\Term6\Visual Basic\Chap03\Circle Solution-Class-level\Circle Project\obj\Debug\Circle Project.pdb

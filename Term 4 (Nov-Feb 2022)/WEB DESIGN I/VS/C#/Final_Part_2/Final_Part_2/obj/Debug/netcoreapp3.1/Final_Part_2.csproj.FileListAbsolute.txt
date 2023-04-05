@@ -1,0 +1,14 @@
+H:\In Class Assignments\Final_Part_2\Final_Part_2\bin\Debug\netcoreapp3.1\Final_Part_2.exe
+H:\In Class Assignments\Final_Part_2\Final_Part_2\bin\Debug\netcoreapp3.1\Final_Part_2.deps.json
+H:\In Class Assignments\Final_Part_2\Final_Part_2\bin\Debug\netcoreapp3.1\Final_Part_2.runtimeconfig.json
+H:\In Class Assignments\Final_Part_2\Final_Part_2\bin\Debug\netcoreapp3.1\Final_Part_2.runtimeconfig.dev.json
+H:\In Class Assignments\Final_Part_2\Final_Part_2\bin\Debug\netcoreapp3.1\Final_Part_2.dll
+H:\In Class Assignments\Final_Part_2\Final_Part_2\bin\Debug\netcoreapp3.1\Final_Part_2.pdb
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.csproj.AssemblyReference.cache
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.GeneratedMSBuildEditorConfig.editorconfig
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.AssemblyInfoInputs.cache
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.AssemblyInfo.cs
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.csproj.CoreCompileInputs.cache
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.dll
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.pdb
+H:\In Class Assignments\Final_Part_2\Final_Part_2\obj\Debug\netcoreapp3.1\Final_Part_2.genruntimeconfig.cache

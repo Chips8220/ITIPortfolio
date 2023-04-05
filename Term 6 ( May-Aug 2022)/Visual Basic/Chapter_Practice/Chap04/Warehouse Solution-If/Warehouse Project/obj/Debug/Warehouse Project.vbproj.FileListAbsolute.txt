@@ -1,0 +1,23 @@
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.exe.config
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.exe
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.pdb
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\bin\Debug\Warehouse Project.xml
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse_Project.frmMain.resources
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse_Project.Resources.resources
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.exe
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.xml
+E:\VB2017\Chap04\Warehouse Solution\Warehouse Project\obj\Debug\Warehouse Project.pdb
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.exe.config
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.exe
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.pdb
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\bin\Debug\Warehouse Project.xml
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse_Project.frmMain.resources
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse_Project.Resources.resources
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.exe
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.xml
+H:\Term6\Visual Basic\Chap04\Warehouse Solution-If\Warehouse Project\obj\Debug\Warehouse Project.pdb

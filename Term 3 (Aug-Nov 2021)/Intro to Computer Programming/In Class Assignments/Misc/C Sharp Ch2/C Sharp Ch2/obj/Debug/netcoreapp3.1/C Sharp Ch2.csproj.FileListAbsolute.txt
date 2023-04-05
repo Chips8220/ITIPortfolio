@@ -1,0 +1,14 @@
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\bin\Debug\netcoreapp3.1\C Sharp Ch2.exe
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\bin\Debug\netcoreapp3.1\C Sharp Ch2.deps.json
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\bin\Debug\netcoreapp3.1\C Sharp Ch2.runtimeconfig.json
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\bin\Debug\netcoreapp3.1\C Sharp Ch2.runtimeconfig.dev.json
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\bin\Debug\netcoreapp3.1\C Sharp Ch2.dll
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\bin\Debug\netcoreapp3.1\C Sharp Ch2.pdb
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.csproj.AssemblyReference.cache
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.AssemblyInfo.cs
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.csproj.CoreCompileInputs.cache
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.dll
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.pdb
+C:\Users\jmullins025080\source\repos\C Sharp Ch2\C Sharp Ch2\obj\Debug\netcoreapp3.1\C Sharp Ch2.genruntimeconfig.cache

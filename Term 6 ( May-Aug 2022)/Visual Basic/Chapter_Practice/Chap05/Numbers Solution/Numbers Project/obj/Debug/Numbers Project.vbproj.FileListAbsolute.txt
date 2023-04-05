@@ -1,0 +1,11 @@
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\bin\Debug\Numbers Project.exe.config
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\bin\Debug\Numbers Project.exe
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\bin\Debug\Numbers Project.pdb
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\bin\Debug\Numbers Project.xml
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\obj\Debug\Numbers Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\obj\Debug\Numbers_Project.frmMain.resources
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\obj\Debug\Numbers_Project.Resources.resources
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\obj\Debug\Numbers Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\obj\Debug\Numbers Project.exe
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\obj\Debug\Numbers Project.xml
+E:\VB2017\Chap05\Numbers Solution\Numbers Project\obj\Debug\Numbers Project.pdb

@@ -1,0 +1,23 @@
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.exe.config
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.exe
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.pdb
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.xml
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission_Project.frmMain.resources
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission_Project.Resources.resources
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.exe
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.xml
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.pdb
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.exe.config
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.exe
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.pdb
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.xml
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission_Project.frmMain.resources
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission_Project.Resources.resources
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.exe
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.xml
+H:\Term6\Visual Basic\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.pdb

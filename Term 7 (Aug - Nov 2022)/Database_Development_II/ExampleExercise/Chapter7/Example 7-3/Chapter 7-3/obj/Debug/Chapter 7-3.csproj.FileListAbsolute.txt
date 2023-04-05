@@ -1,0 +1,20 @@
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\bin\Debug\Chapter 7-3.exe.config
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\bin\Debug\Chapter 7-3.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\bin\Debug\Chapter 7-3.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\obj\Debug\Chapter_7_3.frmPubs.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\obj\Debug\Chapter_7_3.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Chapter 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\bin\Debug\Chapter 7-3.exe.config
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\bin\Debug\Chapter 7-3.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\bin\Debug\Chapter 7-3.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\obj\Debug\Chapter_7_3.frmPubs.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\obj\Debug\Chapter_7_3.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example 7-3\Chapter 7-3\obj\Debug\Chapter 7-3.pdb

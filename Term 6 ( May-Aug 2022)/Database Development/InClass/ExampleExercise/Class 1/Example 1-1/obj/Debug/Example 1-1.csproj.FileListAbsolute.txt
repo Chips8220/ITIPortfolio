@@ -1,0 +1,8 @@
+C:\VCSDB\Code\Class 1\Example 1-1\bin\Debug\Example 1-1.exe
+C:\VCSDB\Code\Class 1\Example 1-1\bin\Debug\Example 1-1.pdb
+C:\VCSDB\Code\Class 1\Example 1-1\obj\Debug\Example 1-1.csprojResolveAssemblyReference.cache
+C:\VCSDB\Code\Class 1\Example 1-1\obj\Debug\Example_1_1.frmMailingList.resources
+C:\VCSDB\Code\Class 1\Example 1-1\obj\Debug\Example_1_1.Properties.Resources.resources
+C:\VCSDB\Code\Class 1\Example 1-1\obj\Debug\Example 1-1.csproj.GenerateResource.Cache
+C:\VCSDB\Code\Class 1\Example 1-1\obj\Debug\Example 1-1.exe
+C:\VCSDB\Code\Class 1\Example 1-1\obj\Debug\Example 1-1.pdb

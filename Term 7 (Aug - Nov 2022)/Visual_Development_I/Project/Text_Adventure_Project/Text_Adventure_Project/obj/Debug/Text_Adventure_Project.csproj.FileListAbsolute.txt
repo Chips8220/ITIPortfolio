@@ -1,0 +1,14 @@
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\bin\Debug\Text_Adventure_Project.exe.config
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\bin\Debug\Text_Adventure_Project.exe
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\bin\Debug\Text_Adventure_Project.pdb
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.csproj.AssemblyReference.cache
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.StartingPrompt.resources
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.Properties.Resources.resources
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.csproj.GenerateResource.cache
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.csproj.CoreCompileInputs.cache
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.exe
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.pdb
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.Dungeon.resources
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.Combat.resources
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.StartStory.resources
+H:\Term7\Visual_Development_I\Project\Text_Adventure_Project\Text_Adventure_Project\obj\Debug\Text_Adventure_Project.ShopPanel.resources

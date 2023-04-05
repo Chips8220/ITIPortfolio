@@ -1,0 +1,14 @@
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\bin\Debug\netcoreapp3.1\322_324_Problems.exe
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\bin\Debug\netcoreapp3.1\322_324_Problems.deps.json
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\bin\Debug\netcoreapp3.1\322_324_Problems.runtimeconfig.json
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\bin\Debug\netcoreapp3.1\322_324_Problems.runtimeconfig.dev.json
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\bin\Debug\netcoreapp3.1\322_324_Problems.dll
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\bin\Debug\netcoreapp3.1\322_324_Problems.pdb
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.csproj.AssemblyReference.cache
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.AssemblyInfo.cs
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.csproj.CoreCompileInputs.cache
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.dll
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.pdb
+C:\Users\jmullins025080\Desktop\322_324_Problems\322_324_Problems\obj\Debug\netcoreapp3.1\322_324_Problems.genruntimeconfig.cache

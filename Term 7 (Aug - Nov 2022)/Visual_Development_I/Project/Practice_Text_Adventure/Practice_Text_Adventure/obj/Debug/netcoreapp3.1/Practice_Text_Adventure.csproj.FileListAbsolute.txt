@@ -1,0 +1,55 @@
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.exe
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.deps.json
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.json
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.dev.json
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.AssemblyReference.cache
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfoInputs.cache
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfo.cs
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+C:\Users\Jacob Mullins\Desktop\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.genruntimeconfig.cache
+H:\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.AssemblyReference.cache
+H:\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfoInputs.cache
+H:\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfo.cs
+H:\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.CoreCompileInputs.cache
+H:\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+H:\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+H:\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.exe
+H:\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.deps.json
+H:\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.json
+H:\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.dev.json
+H:\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+H:\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+H:\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.genruntimeconfig.cache
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.exe
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.deps.json
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.json
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.dev.json
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.AssemblyReference.cache
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfoInputs.cache
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfo.cs
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+C:\Users\Jacob Mullins\source\repos\program shit\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.genruntimeconfig.cache
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.exe
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.deps.json
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.json
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.runtimeconfig.dev.json
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\bin\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.AssemblyReference.cache
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfoInputs.cache
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.AssemblyInfo.cs
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.csproj.CoreCompileInputs.cache
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.dll
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.pdb
+G:\GitHub_HomePC\GitHub_HomePC\CSharp-practice\C#\Practice_Text_Adventure\Practice_Text_Adventure\obj\Debug\netcoreapp3.1\Practice_Text_Adventure.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\bin\Debug\Chapter4_Example4-2.exe.config
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\bin\Debug\Chapter4_Example4-2.exe
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\bin\Debug\Chapter4_Example4-2.pdb
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\obj\Debug\Chapter4_Example4-2.csproj.AssemblyReference.cache
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\obj\Debug\Chapter4_Example4_2.frmBooks.resources
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\obj\Debug\Chapter4_Example4_2.Properties.Resources.resources
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\obj\Debug\Chapter4_Example4-2.csproj.GenerateResource.cache
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\obj\Debug\Chapter4_Example4-2.csproj.CoreCompileInputs.cache
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\obj\Debug\Chapter4_Example4-2.exe
+H:\Term6\Database Development\InClass\ExampleExercise\Chapter4_Example4-2\Chapter4_Example4-2\obj\Debug\Chapter4_Example4-2.pdb

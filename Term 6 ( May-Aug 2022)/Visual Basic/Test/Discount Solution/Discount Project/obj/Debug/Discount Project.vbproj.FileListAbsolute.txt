@@ -1,0 +1,12 @@
+H:\Term6\Visual Basic\Discount Solution\Discount Project\bin\Debug\Discount Project.exe.config
+H:\Term6\Visual Basic\Discount Solution\Discount Project\bin\Debug\Discount Project.exe
+H:\Term6\Visual Basic\Discount Solution\Discount Project\bin\Debug\Discount Project.pdb
+H:\Term6\Visual Basic\Discount Solution\Discount Project\bin\Debug\Discount Project.xml
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount Project.vbproj.AssemblyReference.cache
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount_Project.DiscountFrm.resources
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount_Project.Resources.resources
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount Project.vbproj.GenerateResource.cache
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount Project.vbproj.CoreCompileInputs.cache
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount Project.exe
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount Project.xml
+H:\Term6\Visual Basic\Discount Solution\Discount Project\obj\Debug\Discount Project.pdb

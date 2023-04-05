@@ -1,0 +1,50 @@
+%!Adobe-FontList 1.11
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RuasMediumGrunge
+FamilyName:Ruas Medium Grunge
+StyleName:Medium Grunge
+FullName:Ruas Medium Grunge
+MenuName:Ruas Medium Grunge
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Term6\Photoshop\Final Project\Font\RuasMediumGrunge.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:420308
+FileModTime:1660781837
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:H:\Term6\Photoshop\Final Project\Font\RuasMediumGrunge.png
+FileModTime:1660781837
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ruas-Medium-Grunge
+FamilyName:Ruas Medium Grunge
+StyleName:Medium Grunge
+FullName:Ruas Medium Grunge
+MenuName:Ruas Medium Grunge
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Term6\Photoshop\Final Project\Font\RuasMediumGrunge.ttf
+DataFormat:sfntData
+FileLength:251308
+FileModTime:1660781837
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

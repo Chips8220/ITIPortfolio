@@ -1,0 +1,53 @@
+C:\VCSDB\Code\Class 6\Example 6-9\bin\Debug\Example 6-9.exe
+C:\VCSDB\Code\Class 6\Example 6-9\bin\Debug\Example 6-9.pdb
+C:\VCSDB\Code\Class 6\Example 6-9\obj\Debug\Example_6_9.frmAuthors.resources
+C:\VCSDB\Code\Class 6\Example 6-9\obj\Debug\Example_6_9.frmPublishers.resources
+C:\VCSDB\Code\Class 6\Example 6-9\obj\Debug\Example_6_9.frmTitles.resources
+C:\VCSDB\Code\Class 6\Example 6-9\obj\Debug\Example_6_9.Properties.Resources.resources
+C:\VCSDB\Code\Class 6\Example 6-9\obj\Debug\Example 6-9.csproj.GenerateResource.Cache
+C:\VCSDB\Code\Class 6\Example 6-9\obj\Debug\Example 6-9.exe
+C:\VCSDB\Code\Class 6\Example 6-9\obj\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\bin\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\bin\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example 6-9.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example_6_9.frmAuthors.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example_6_9.frmPublishers.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example_6_9.frmTitles.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example_6_9.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example 6-9.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example 6-9.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter6\Example6-9\obj\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\bin\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\bin\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example 6-9.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example_6_9.frmAuthors.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example_6_9.frmPublishers.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example_6_9.frmTitles.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example_6_9.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example 6-9.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example 6-9.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-1\obj\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\bin\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\bin\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example 6-9.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example_6_9.frmAuthors.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example_6_9.frmPublishers.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example_6_9.frmTitles.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example_6_9.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example 6-9.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example 6-9.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter7\Example7-2\obj\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\bin\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\bin\Debug\Example 6-9.pdb
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example 6-9.csproj.AssemblyReference.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example_6_9.frmAuthors.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example_6_9.frmPublishers.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example_6_9.frmTitles.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example_6_9.Properties.Resources.resources
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example 6-9.csproj.GenerateResource.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example 6-9.csproj.CoreCompileInputs.cache
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example 6-9.exe
+H:\Term7\Database_Development_II\ExampleExercise\Chapter8\Example 8-1\obj\Debug\Example 6-9.pdb

@@ -1,0 +1,11 @@
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\bin\Debug\Amlie Project.exe.config
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\bin\Debug\Amlie Project.exe
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\bin\Debug\Amlie Project.pdb
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\bin\Debug\Amlie Project.xml
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\obj\Debug\Amlie Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\obj\Debug\Amlie_Project.frmMain.resources
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\obj\Debug\Amlie_Project.Resources.resources
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\obj\Debug\Amlie Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\obj\Debug\Amlie Project.exe
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\obj\Debug\Amlie Project.xml
+E:\VB2017\Chap02\Amlie Solution\Amlie Project\obj\Debug\Amlie Project.pdb

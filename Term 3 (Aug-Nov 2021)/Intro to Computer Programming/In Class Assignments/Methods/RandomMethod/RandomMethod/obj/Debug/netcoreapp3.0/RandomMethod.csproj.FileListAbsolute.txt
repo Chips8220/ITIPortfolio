@@ -1,0 +1,11 @@
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\bin\Debug\netcoreapp3.0\RandomMethod.exe
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\bin\Debug\netcoreapp3.0\RandomMethod.deps.json
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\bin\Debug\netcoreapp3.0\RandomMethod.runtimeconfig.json
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\bin\Debug\netcoreapp3.0\RandomMethod.runtimeconfig.dev.json
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\bin\Debug\netcoreapp3.0\RandomMethod.dll
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\bin\Debug\netcoreapp3.0\RandomMethod.pdb
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\obj\Debug\netcoreapp3.0\RandomMethod.csprojAssemblyReference.cache
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\obj\Debug\netcoreapp3.0\RandomMethod.AssemblyInfoInputs.cache
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\obj\Debug\netcoreapp3.0\RandomMethod.AssemblyInfo.cs
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\obj\Debug\netcoreapp3.0\RandomMethod.dll
+C:\Users\jmullins025080\source\repos\RandomMethod\RandomMethod\obj\Debug\netcoreapp3.0\RandomMethod.pdb
